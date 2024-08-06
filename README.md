@@ -16,7 +16,7 @@ Description about your project
 * Docker
 
 ## How unlock pre-requisites?
-* Install Python
+* Install Python: https://www.python.org/downloads/
 
 * Install Docker: https://www.youtube.com/playlist?list=PLbPvnlmz6e_L_3Zw_fGtMcMY0eAOZnN-H
 
