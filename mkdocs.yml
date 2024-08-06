@@ -16,12 +16,10 @@ theme:
         icon: material/weather-night
         name: Black mode
 
-nav:
-  - Index: index.md
-  - Architecture: architecture.md
-  - Sample Page 2: page_2.md
-
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -32,3 +30,10 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.arithmatex:
       generic: true
+
+
+nav:
+  - Index: index.md
+  - Architecture: architecture.md
+  - Sample Page 2: page_2.md
+

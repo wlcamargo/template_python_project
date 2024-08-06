@@ -48,6 +48,15 @@ Run the program:
 python src/sample_dotenv.py
 ```
 
+## How to use the documentation?
+Run documentation:
+```
+docker compose up -d
+```
+Access documentation:
+localhost:8005
+
+
 ## References
 https://docs.python.org/3/
 
