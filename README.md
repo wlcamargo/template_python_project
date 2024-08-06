@@ -13,9 +13,13 @@ Description about your project
 
 ## Pre-requisites
 * Python:3.10
+* Docker
 
 ## How unlock pre-requisites?
 * Install Python
+
+* Install Docker: https://www.youtube.com/playlist?list=PLbPvnlmz6e_L_3Zw_fGtMcMY0eAOZnN-H
+
 
 ## How to use the project?
 Clone the repository:
