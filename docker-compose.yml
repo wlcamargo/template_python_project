@@ -1,9 +1,9 @@
 services:
-  mkdocs:
+  documentation:
     image: wlcamargo/mkdocs
     ports:
       - "8005:8000"
     volumes:
-      - ./:/docs
+      - ./docs:/docs
     stdin_open: true
     tty: true
