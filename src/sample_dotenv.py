@@ -1,8 +1,11 @@
-from dotenv import load_dotenv
+"""Sample code"""
+
 import os
+
+from dotenv import load_dotenv
 
 load_dotenv()
 
-var = os.getenv('VARIABLE')
+var = os.getenv("VARIABLE")
 
 print(var)
